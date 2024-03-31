@@ -39,4 +39,5 @@ jobs:
       - name: Run a multi-line script2
         run: |
           echo run the ls command in terminal,
-          ls -al  
+          ls -al
+          echo hello pd
